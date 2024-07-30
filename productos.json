@@ -1,0 +1,26 @@
+[
+    {
+        "id": "42d1eb21-95b6-462c-99ca-196cb6283397",
+        "nombre": "microsoft windows",
+        "precio": 20.0,
+        "cantidad_en_stock": 100,
+        "fecha_expiracion": "17/11/2024",
+        "tipo": "software"
+    },
+    {
+        "id": "ba871a85-2fae-413f-a48a-1200b409eeec",
+        "nombre": "microsoft office 365",
+        "precio": 15.0,
+        "cantidad_en_stock": 600,
+        "fecha_expiracion": "17/11/1989",
+        "tipo": "software"
+    },
+    {
+        "id": "3230f24e-9b10-4447-b471-21512100fe17",
+        "nombre": "mouse",
+        "precio": 15.0,
+        "cantidad_en_stock": 800,
+        "garantia": "1",
+        "tipo": "hardware"
+    }
+]
